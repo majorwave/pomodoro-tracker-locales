@@ -63,28 +63,28 @@ msgid "for all time"
 msgstr ""
 
 msgid "Are you sure want to delete"
-msgstr ""
+msgstr "Sigur doriți să ștergeți"
 
 msgid "Delete"
-msgstr ""
+msgstr "Șterge"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Anulare"
 
 msgid "record"
 msgstr ""
 
 msgid "Loading"
-msgstr ""
+msgstr "Se incarca"
 
 msgid "Changes saved"
-msgstr ""
+msgstr "Schimbarile au fost salvate"
 
 msgid "Integrations"
-msgstr ""
+msgstr "Integrările"
 
 msgid "Add"
-msgstr ""
+msgstr "Adauga"
 
 msgid ""
 "to your telegram, type `/start` and enter a code from the bot to field "
@@ -95,106 +95,107 @@ msgid "Code"
 msgstr ""
 
 msgid "Close"
-msgstr ""
+msgstr "Inchide"
 
 msgid "Register"
-msgstr ""
+msgstr "Inregistrare"
 
 msgid "Connect"
-msgstr ""
+msgstr "Conectare"
 
 msgid "Disconnect"
-msgstr ""
+msgstr "Deconectare"
 
 msgid "Integration with Google"
-msgstr ""
+msgstr "Integrare cu Google"
 
 msgid "Login to the service using Google authentication."
-msgstr ""
+msgstr "Conecteaza-te la serviciu utilizând autentificarea Google."
 
 msgid "Integration with Facebook"
-msgstr ""
+msgstr "Integrare cu Facebook"
 
 msgid "Login to the service using Facebook authentication."
-msgstr ""
+msgstr "Conecteaza-te la serviciu utilizând autentificarea Facebook.
+"
 
 msgid "Integration with Github"
-msgstr ""
+msgstr "Integrare cu Github"
 
 msgid "Login to the service using Github authentication."
-msgstr ""
+msgstr "Conecteaza-te la serviciu utilizând autentificarea Github."
 
 msgid "Enable Telegram Bot"
-msgstr ""
+msgstr "Activeaza Bot Telegram"
 
 msgid "Get notifications, check history"
 msgstr ""
 
 msgid "Application"
-msgstr ""
+msgstr "Aplicatie"
 
 msgid "Theme"
-msgstr ""
+msgstr "Tema"
 
 msgid "light"
-msgstr ""
+msgstr "deschis"
 
 msgid "dark"
-msgstr ""
+msgstr "inchis"
 
 msgid "auto"
-msgstr ""
+msgstr "auto"
 
 msgid "Language"
-msgstr ""
+msgstr "Limba"
 
 msgid "Date format"
-msgstr ""
+msgstr "Formatul datei"
 
 msgid "Time format"
-msgstr ""
+msgstr "Formatul timpului"
 
 msgid "Time zone"
-msgstr ""
+msgstr "Fus orar"
 
 msgid "Daily history"
-msgstr ""
+msgstr "Istoricul zilnic"
 
 msgid "Clear DONE history once per day"
-msgstr ""
+msgstr "Șterge istoricul EFECTUAT o dată pe zi"
 
 msgid "At time"
-msgstr ""
+msgstr "La timp"
 
 msgid "Categories"
-msgstr ""
+msgstr "Categorii"
 
 msgid "Create a category"
-msgstr ""
+msgstr "Creaza o categorie"
 
 msgid "Add category"
-msgstr ""
+msgstr "Adauga categorie"
 
 msgid "Send Daily Reports"
-msgstr ""
+msgstr "Trimite Rapoartele zilnice"
 
 msgid "Send reports on email: "
-msgstr ""
+msgstr "Trimite rapoarte pe e-mail:"
 
 msgid "Send reports on telegram"
-msgstr ""
+msgstr "Trimite rapoarte pe telegram"
 
 msgid "Reports Time"
 msgstr ""
 
 msgid "Notifications"
-msgstr ""
+msgstr "Notificatii"
 
 msgid "Volume"
-msgstr ""
+msgstr "Volum"
 
 msgid "Play alarm sound"
-msgstr ""
+msgstr "Redați sunetul de alarmă"
 
 msgid "Play ticking sound"
 msgstr ""
